@@ -18,7 +18,7 @@ buildDetector.m文件中有：\
 % detector.detector(4) 鼻子探测器\
 大家可以根据上述探测器自行构造属于自己的数据集
 ##
-%--------------------------------------------------------------------%
+%--------------------------------------------------------------------------------------------------------------------------------%
 This test was successfully tested using MATLAB2020a on the basis of Win10
 ## Note: 
 If you need to capture multiple faces in the video, please run the AllFace.m file 
@@ -32,10 +32,10 @@ For example: Run the OneFace.m file to make a dataset of whether to wear a mask
 
 ## The same is true: running the AllFace.m file is also the same step
 expand:
-buildDetector.m文件中有：
-% detector.detector(1) : left eye detector
-% detector.detector(2) : right eye detector
-% detector.detector(3) : mouth detector
-% detector.detector(4) : nose detector
+buildDetector.m：\
+% detector.detector(1) : left eye detector\
+% detector.detector(2) : right eye detector\
+% detector.detector(3) : mouth detector\
+% detector.detector(4) : nose detector\
 You can construct your  dataset based on the above detectors
 
